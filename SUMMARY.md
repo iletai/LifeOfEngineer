@@ -7,18 +7,19 @@
 * [💡 What we do](overview/what-we-do.md)
 * [✨ Our Documentations.](overview/our-documentations..md)
 
-## Product Guides
+## Quick Look
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Our Structer Gitbook](quick-look/our-structer-gitbook.md)
+* [📎 Understanding Technical Tree](quick-look/understanding-technical-tree.md)
 
-## Fundamentals
+## Technical Guides
 
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠️ Detail Technical Sharing](technical-guides/detail-technical-sharing/README.md)
+  * [📝 How To Avoid Stress Self-Deprecation For Developer](technical-guides/detail-technical-sharing/how-to-avoid-stress-self-deprecation-for-developer/README.md)
+    * [Page 1](technical-guides/detail-technical-sharing/how-to-avoid-stress-self-deprecation-for-developer/page-1.md)
+  * [🧑 Like The Way Do You Write A Good Code](technical-guides/detail-technical-sharing/like-the-way-do-you-write-a-good-code.md)
 
-## Use Cases
+## Soft Skill Guide
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [🎨 For Developer](soft-skill-guide/for-developer.md)
+* [🖥️ About Me And More](soft-skill-guide/about-me-and-more.md)

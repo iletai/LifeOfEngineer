@@ -1,6 +1,20 @@
 ---
 cover: .gitbook/assets/bg.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🍀 Page Notes For Documentation Of A Engineer
@@ -31,14 +45,14 @@ I heard a quote, the way you learn anything is to write it and teach someone.
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="technical-guides/detail-technical-sharing/" %}
+[detail-technical-sharing](technical-guides/detail-technical-sharing/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="technical-guides/detail-technical-sharing/how-to-avoid-stress-self-deprecation-for-developer/" %}
+[how-to-avoid-stress-self-deprecation-for-developer](technical-guides/detail-technical-sharing/how-to-avoid-stress-self-deprecation-for-developer/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="technical-guides/detail-technical-sharing/like-the-way-do-you-write-a-good-code.md" %}
+[like-the-way-do-you-write-a-good-code.md](technical-guides/detail-technical-sharing/like-the-way-do-you-write-a-good-code.md)
 {% endcontent-ref %}
