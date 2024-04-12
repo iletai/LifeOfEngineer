@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/bg.jpg
+coverY: 0
+---
+
 # 🍀 Page Notes For Documentation Of A Engineer
 
 {% hint style="info" %}
@@ -18,8 +23,8 @@ I heard a quote, the way you learn anything is to write it and teach someone.
 [what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/our-documentations..md" %}
+[our-documentations..md](overview/our-documentations..md)
 {% endcontent-ref %}
 
 ## Get Started
