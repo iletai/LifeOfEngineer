@@ -18,6 +18,7 @@
   * [📝 How To Avoid Stress Self-Deprecation For Developer](technical-guides/detail-technical-sharing/how-to-avoid-stress-self-deprecation-for-developer/README.md)
     * [Page 1](technical-guides/detail-technical-sharing/how-to-avoid-stress-self-deprecation-for-developer/page-1.md)
   * [🧑 Like The Way Do You Write A Good Code](technical-guides/detail-technical-sharing/like-the-way-do-you-write-a-good-code.md)
+  * [iOS Sharing](technical-guides/detail-technical-sharing/ios-sharing.md)
 
 ## Soft Skill Guide
 
