@@ -1,10 +1,10 @@
-# 📝 Setting permissions
+# 📝 How To Avoid Stress Self-Deprecation For Developer
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features, use them to encourage folks to perform certain actions and discover the value in your product.
+**A Developer Should Know: Writing good code could help improve quality, timing, and migration for the owner, and another member of the Team. But if we do anything in our major, we must have a mindset to improve it.**
 {% endhint %}
 
-## Permission levels
+## Write a good code - Table Content
 
 There are 4 types of permission levels in the product.
 
