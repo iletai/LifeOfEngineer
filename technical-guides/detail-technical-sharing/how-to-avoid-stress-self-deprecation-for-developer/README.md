@@ -6,9 +6,9 @@
 
 ## Write a good code - Table Content
 
-There are 4 types of permission levels in the product.
+With the list below, when facing and receiving mention of another developer.
 
-<table><thead><tr><th width="180">Role</th><th>Capabilities</th></tr></thead><tbody><tr><td>Administrator</td><td>Has all admin privileges</td></tr><tr><td>Editor</td><td>Can edit posts</td></tr><tr><td>Viewer</td><td>Can only view posts</td></tr><tr><td>Guest</td><td>Can only view posts they are inivted to</td></tr></tbody></table>
+<table><thead><tr><th width="180">Case</th><th>Expected</th></tr></thead><tbody><tr><td>Variable</td><td>Reduce The Scope Of The Variable's Impact.</td></tr><tr><td>Rule Of Object</td><td><strong>S</strong>ingle Responsibility Principle(A part of SOLID)</td></tr><tr><td>Style Code</td><td>Give It's A Correct Naming</td></tr><tr><td>Object Relationship</td><td>Make Method With Depend On Something Else</td></tr><tr><td>OOP</td><td>Wait A Minute With Inheritance</td></tr><tr><td>Condition</td><td>Make Codition Break Could Be More Simple Rather Complicate</td></tr></tbody></table>
 
 {% content-ref url="https://app.gitbook.com/o/NKy5UBZSL2sKRANBPJI8/s/J2amB1nq8GkaeSmtq3op/" %}
 [Using Gemini AI with improve workload Github](https://app.gitbook.com/o/NKy5UBZSL2sKRANBPJI8/s/J2amB1nq8GkaeSmtq3op/)
