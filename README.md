@@ -49,10 +49,10 @@ We've put together some helpful guides for you to get setup with our product qui
 [detail-technical-sharing](technical-guides/detail-technical-sharing/)
 {% endcontent-ref %}
 
-{% content-ref url="technical-guides/detail-technical-sharing/how-to-write-a-good-code/" %}
-[how-to-write-a-good-code](technical-guides/detail-technical-sharing/how-to-write-a-good-code/)
+{% content-ref url="technical-guides/detail-technical-sharing/how-to-avoid-stress-self-deprecation-for-developer/" %}
+[how-to-avoid-stress-self-deprecation-for-developer](technical-guides/detail-technical-sharing/how-to-avoid-stress-self-deprecation-for-developer/)
 {% endcontent-ref %}
 
-{% content-ref url="technical-guides/detail-technical-sharing/how-to-avoid-stress-self-deprecation-for-developer.md" %}
-[how-to-avoid-stress-self-deprecation-for-developer.md](technical-guides/detail-technical-sharing/how-to-avoid-stress-self-deprecation-for-developer.md)
+{% content-ref url="soft-skill-guide/for-developer/how-to-avoid-stress-self-deprecation-for-developer.md" %}
+[how-to-avoid-stress-self-deprecation-for-developer.md](soft-skill-guide/for-developer/how-to-avoid-stress-self-deprecation-for-developer.md)
 {% endcontent-ref %}

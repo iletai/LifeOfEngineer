@@ -1,4 +1,4 @@
-# 📝 How To Avoid Stress Self-Deprecation For Developer
+# 📝 How To Write A Good Code!
 
 {% hint style="info" %}
 **A Developer Should Know: Writing good code could help improve quality, timing, and migration for the owner, and another member of the Team. But if we do anything in our major, we must have a mindset to improve it.**
