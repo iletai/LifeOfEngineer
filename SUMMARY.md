@@ -1,16 +1,16 @@
 # Table of contents
 
-* [🍀 Page Notes For Documentation Of A Engineer](README.md)
+* [🍀 Documentation Of An Engineer](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 What We Approach](overview/what-we-approach.md)
 * [✨ Our Documentations.](overview/our-documentations..md)
 
 ## Quick Look
 
-* [📪 Our Structer Gitbook](quick-look/our-structer-gitbook.md)
-* [📎 Understanding Technical Tree](quick-look/understanding-technical-tree.md)
+* [📪 Our Structer](quick-look/our-structer.md)
+* [📎 Technical Tree](quick-look/technical-tree.md)
 
 ## Technical Guides
 

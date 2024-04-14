@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🍀 Page Notes For Documentation Of A Engineer
+# 🍀 Documentation Of An Engineer
 
 {% hint style="info" %}
 Learning and Reading Not For Your Company, Your Girl Friend, Or Anything Else. It's For You
@@ -33,8 +33,8 @@ I heard a quote, the way you learn anything is to write it and teach someone.
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/what-we-approach.md" %}
+[what-we-approach.md](overview/what-we-approach.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/our-documentations..md" %}
